@@ -288,4 +288,6 @@ Apache License 2.0
 
 - [jcloudstorage](https://github.com/FlossWare/jcloudstorage) - Cloud storage abstraction (S3, Azure, GCS, Google Drive, Dropbox, OneDrive)
 - [jfiletransfer](https://github.com/FlossWare/jfiletransfer) - File transfer abstraction (SFTP, WebDAV, SMB/CIFS, FTP/FTPS)
-- [jclassloader](https://github.com/FlossWare/jclassloader) - Dynamic class loading from 30+ transport protocols
+- [jcontainer](https://github.com/FlossWare/jcontainer) - Container abstraction (Kubernetes, Docker, Hazelcast)
+- [jvcs](https://github.com/FlossWare/jvcs) - Version control abstraction (Git)
+- [jclassloader](https://github.com/FlossWare/jclassloader) - Dynamic class loading from 34+ transport protocols
