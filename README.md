@@ -19,7 +19,7 @@ Universal messaging and cache abstraction library for Java. Provides a simple, u
 ```xml
 <dependency>
     <groupId>org.flossware</groupId>
-    <artifactId>jmessaging</artifactId>
+    <artifactId>messaging-java</artifactId>
     <version>1.0</version>
 </dependency>
 
@@ -275,8 +275,8 @@ This project uses **X.Y semantic versioning** (e.g., 1.0, 1.1, 2.0). Versions ar
 ## Building from Source
 
 ```bash
-git clone https://github.com/FlossWare/jmessaging.git
-cd jmessaging
+git clone https://github.com/FlossWare/messaging-java.git
+cd messaging-java
 mvn clean install
 ```
 
